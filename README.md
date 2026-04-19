@@ -6,14 +6,14 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 🧠 What is MuseTune?
-MuseTune is an end-to-end AI pipeline that transforms personal journal entries into complete songs. Write how you feel — MuseTune detects your emotion, finds matching chord progressions, and generates lyrics using Large Language Models.
+MuseTune is an end-to-end AI pipeline that transforms personal journal entries into complete songs. Write how you feel   MuseTune detects your emotion, finds matching chord progressions, and generates lyrics using Large Language Models.
 
 ## 🔄 How It Works
-1. 📝 **Input** — User writes a journal entry
-2. 🎭 **Emotion Detection** — RoBERTa transformer classifies emotion (28 classes)
-3. 🎼 **Chord Retrieval** — Queries 7,200+ song database for matching progressions
-4. ✍️ **Lyric Generation** — Multiple LLMs generate chord-conditioned lyrics
-5. 📊 **Evaluation** — 6 automated metrics score the output
+1. 📝 **Input**    User writes a journal entry
+2. 🎭 **Emotion Detection**    RoBERTa transformer classifies emotion (28 classes)
+3. 🎼 **Chord Retrieval**    Queries 7,200+ song database for matching progressions
+4. ✍️ **Lyric Generation**    Multiple LLMs generate chord-conditioned lyrics
+5. 📊 **Evaluation**    6 automated metrics score the output
 
 ## 🛠️ Tech Stack
 - **Emotion Detection:** RoBERTa (GoEmotions, 28 classes)
@@ -40,5 +40,5 @@ MuseTune is an end-to-end AI pipeline that transforms personal journal entries i
 - **3 chord methods:** Database query · LLM-selected · Rule-based
 
 ## 👨‍💻 Author
-**Arpit Soni** — Final Year CS Student, Adelaide University
+**Arpit Soni**    Final Year CS Student, Adelaide University
 [LinkedIn](https://www.linkedin.com/in/arpitsoni00007)
