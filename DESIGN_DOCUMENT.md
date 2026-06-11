@@ -5,7 +5,7 @@
 | Project | MuseTune: AI Songwriting System |
 | Author | Arpit Soni (a1897431) |
 | Course | ICT Master Capstone Project 2 |
-| University | University of Adelaide |
+| University | Adelaide University |
 | Supervisor | Dr. Hussain Ahmed |
 | Version | 1.0 |
 | Last Updated | June 2026 |
