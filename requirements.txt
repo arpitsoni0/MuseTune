@@ -1,0 +1,17 @@
+gradio>=4.0
+google-generativeai
+openai
+groq
+torch
+transformers
+music21
+mir_eval
+nltk
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+pydub
+edge-tts
+nest-asyncio
