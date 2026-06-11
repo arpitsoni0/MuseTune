@@ -5,7 +5,7 @@
 | Project | MuseTune AI Songwriting System |
 | Tester | Arpit Soni (a1897431) |
 | Course | ICT Master Capstone Project 2 |
-| University | University of Adelaide |
+| University | Adelaide University |
 | Test Environment | Hugging Face Spaces (production) |
 | Total Tests | 42 |
 | Pass Rate | 97.6% |
