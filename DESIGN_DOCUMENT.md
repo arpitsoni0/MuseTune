@@ -245,16 +245,29 @@ A bias audit has also been conducted. The GoEmotions training data [3] is source
 ---
 ## 12. References
 [1] S. Ding et al., "SongComposer: A large language model for lyric and melody generation in song composition," in Proc. ACL, 2024.
+
 [2] X. Ma et al., "AI-Lyricist: Generating music and vocabulary constrained lyrics," in Proc. ACM Multimedia, 2024.
+
 [3] D. Demszky, D. Movshovitz-Attias, J. Ko, A. Cowen, G. Nemade, and S. Ravi, "GoEmotions: A dataset of fine-grained emotions," in Proc. ACL, 2020, pp. 4040-4054.
+
 [4] HookTheory LLC, "Theorytab database," 2024. [Online]. Available: https://www.hooktheory.com/theorytab
+
 [5] J. de Berardinis, A. Merono-Penuela, A. Poltronieri, and V. Presutti, "ChoCo: A chord corpus and a data transformation workflow for musical harmony knowledge graphs," Sci. Data, vol. 10, no. 641, 2023.
+
 [6] K. Karplus and A. Strong, "Digital synthesis of plucked-string and drum timbres," Computer Music Journal, 1983.
+
 [7] M. S. Cuthbert and C. Ariza, "music21: A toolkit for computer-aided musicology and symbolic music data," in Proc. ISMIR, 2010, pp. 637-642.
+
 [8] C. Raffel, B. McFee, E. J. Humphrey, J. Salamon, O. Nieto, D. Liang, and D. P. W. Ellis, "mir_eval: A transparent implementation of common MIR metrics," in Proc. ISMIR, 2014.
+
 [9] A. Radford, J. Wu, R. Child, D. Luan, D. Amodei, and I. Sutskever, "Language models are unsupervised multitask learners," OpenAI Technical Report, 2019.
+
 [10] S. Banerjee and A. Lavie, "METEOR: An automatic metric for MT evaluation with improved correlation with human judgments," in Proc. ACL Workshop, 2005, pp. 65-72.
+
 [11] W. Medhat, A. Hassan, and H. Korashy, "Sentiment analysis algorithms and applications: A survey," Ain Shams Eng. J., vol. 5, no. 4, pp. 1093-1113, 2014.
+
 [12] M. S. U. Miah et al., "A multimodal approach to cross-lingual sentiment analysis with ensemble of transformer and LLM," Sci. Rep., vol. 14, no. 9603, 2024.
+
 [13] D. Herremans and E. Chew, "Tension ribbons: Quantifying and visualising tonal tension," in Proc. TENOR, 2017.
+
 [14] T. Ren et al., "Guitar chord-generating algorithm based on complex network," Physica A, vol. 450, pp. 302-314, 2016.
